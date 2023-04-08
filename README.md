@@ -1,6 +1,6 @@
-# YakGPT
+# NextJs Chat GPT Starter (Based on YakGPT)
 
-A simple, locally running ChatGPT UI that makes your text generation faster and chatting even more engaging!
+A simple, locally running ChatGPT UI that makes your text generation faster and chatting even more engaging! Use it to kick start your own ChatGPT project. 
 
 ## Features
 
@@ -13,6 +13,13 @@ A simple, locally running ChatGPT UI that makes your text generation faster and 
 - Use your own API key – ensure your data privacy and security
 - All state stored locally in localStorage – no analytics or external service calls
 - Access on https://yakgpt.vercel.app or run locally!
+
+## Added Features not in YakGPT (Coming soon)
+
+- Ability to add Auth via NextJs
+- Ability to log and maintain state for customers between sessions across machines
+- Ability to connect your own Corpus of data
+- Ability for integrations
 
 > Note that GPT-4 API access is needed to use it. GPT 3.5 is enabled for all users.
 
